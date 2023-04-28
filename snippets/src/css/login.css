@@ -1,0 +1,21 @@
+.loginForm  {
+    background-color: grey;
+    color: brown;
+    font-weight: bold;
+
+}
+.loginForm #first{
+    background-color: antiquewhite;
+}
+/*.error {
+    background-color: maroon;
+    font-weight: bolder;
+    font-style: italic;
+    color: black;
+}*/
+.loginForm div .error{
+    background-color: maroon;
+    font-weight: bolder;
+    font-style: italic;
+    color: black;
+}

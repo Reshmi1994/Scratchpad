@@ -1,0 +1,34 @@
+div.box {
+    /* background-color: lavender; */
+    text-align: center;
+    padding: 10px;
+    font-size: large;
+    font-weight: bold;
+    border: 1px solid black;
+    width: 94%
+}
+
+.center {
+
+    font-style: normal;
+    color: black;
+    width: 25%;
+    margin: auto;
+}
+
+
+.display {
+    height: 30px;
+    border: 1px solid black;
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+    background-color: beige;
+}
+
+button:hover {
+    background-color: yellow;
+}

@@ -1,0 +1,16 @@
+nav {
+    background-color: black;
+}
+nav li{
+    display: inline-block;
+    padding: 6px;
+}
+nav a{
+    color: aliceblue;
+}
+nav ul{
+    margin-top: 0px;
+}
+a {
+    text-decoration: none;
+ }
